@@ -149,14 +149,14 @@ header.masthead{
 	text-align:center;
 	color:#fff;
 	background-image:url(../img/thom/poster2.png);
-	/*background-repeat:no-repeat;
+/*	background-repeat:no-repeat;
 	background-attachment:scroll;
 	background-position:center center fixed;
-	background-position: right top;
+	background-position: right top;*/
 	-webkit-background-size: cover;
     -moz-background-size: cover;
   	-o-background-size: cover;
-	background-size:cover;*/
+	background-size:cover;
 }
 header.masthead 
 header.masthead .intro-text{
