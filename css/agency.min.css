@@ -148,11 +148,11 @@ img::-moz-selection{
 header.masthead{
 	text-align:center;
 	color:#fff;
-	background-image:url(../img/thom/poster2.png);
-/*	background-repeat:no-repeat;
-	background-attachment:scroll;
+	background-image:url(../img/thom/poster.png);
+	background-repeat:no-repeat;
+	/*background-attachment:scroll;*/
 	background-position:center center fixed;
-	background-position: right top;*/
+	/*background-position: right top;*/
 	-webkit-background-size: cover;
     -moz-background-size: cover;
   	-o-background-size: cover;
